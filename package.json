@@ -43,18 +43,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexZajac/react-native-skeleton-content-nonexpo.git"
+    "url": "git+https://github.com/copartit/react-native-skeleton-content-nonexpo.git"
   },
   "keywords": [
     "node",
     "npm"
   ],
   "bugs": {
-    "url": "https://github.com/alexZajac/react-native-skeleton-content-nonexpo/issues"
+    "url": "https://github.com/copartit/react-native-skeleton-content-nonexpo/issues"
   },
-  "homepage": "https://github.com/alexZajac/react-native-skeleton-content-nonexpo#readme",
+  "homepage": "https://github.com/copartit/react-native-skeleton-content-nonexpo#readme",
   "dependencies": {
-    "react-native-redash": "^16.0.11"
+    "react-native-redash": "^18.1.1"
   },
   "peerDependencies": {
     "react-native-linear-gradient": "^2.5.1",
